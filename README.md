@@ -9,6 +9,6 @@
 - 🎵 Interested in playing guitar and street workout
 
 ## My latest projects
-### [Chess python game](https://github.com/ddncky/chess_project)
+### [chess_project](https://github.com/ddncky/chess_project)
 ![](https://img.shields.io/badge/python-3.10-blue) ![](https://img.shields.io/badge/pygame-2.3.0-blue) <br>
 Chess game built with python.
