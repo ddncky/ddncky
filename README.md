@@ -3,10 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-ddncky-blue?style=social&logo=telegram&link=https://t.me/ddncky)](https://t.me/ddncky)<br>
 [![Gmail Badge](https://img.shields.io/badge/-montekristo705@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:montekristo705@gmail.com)](mailto:montekristo705@gmail.com) <p align='left'>
 
-- 🛠 I’m backend python developer
-- 📖 Learning FastAPI
-- 🌊 Originally from Crimea, currently in Moscow
-- 🎵 Interested in playing guitar and street workout
+- 🛠 I’m backend python developer.
 
 ## My latest projects
 ### [sites_blocker](https://github.com/ddncky/sites_blocker)
